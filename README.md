@@ -1,2 +1,2 @@
-![Image 1](1.jpg) ![Image 2](2.jpg)
-![Image 3](3.jpg) ![Image 4](4.jpg)
+![Image 1](1.JPG) ![Image 2](2.JPG)
+![Image 3](3.JPG) ![Image 4](4.JPG)
